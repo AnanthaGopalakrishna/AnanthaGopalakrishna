@@ -14,7 +14,7 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
-      - uses: Platane/snk@v3
+      - uses: Anantha Gopala krishna
         with:
           github_user_name: Anantha Gopala krishna
           outputs: |
